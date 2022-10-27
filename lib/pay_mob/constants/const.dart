@@ -1,0 +1,18 @@
+
+String paymobApiKey='ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6VXhNaUo5LmV5SndjbTltYVd4bFgzQnJJam95TXpJd05Ea3NJbTVoYldVaU9pSnBibWwwYVdGc0lpd2lZMnhoYzNNaU9pSk5aWEpqYUdGdWRDSjkuM0l5ai04MTY0Z1dxTjUySTUxeFFHSkpiM01aMl9jR3M4OERuY0R3V09UN3RrZG5DcjVSeDVoX0ZXVlM4bTdxTjQtcDh5UDlnT2hSVkFGdEs2OGpwVHc=';
+    //'ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6VXhNaUo5LmV5SndjbTltYVd4bFgzQnJJam95TXpJd05Ea3NJbTVoYldVaU9pSnBibWwwYVdGc0lpd2lZMnhoYzNNaU9pSk5aWEpqYUdGdWRDSjkuM0l5ai04MTY0Z1dxTjUySTUxeFFHSkpiM01aMl9jR3M4OERuY0R3V09UN3RrZG5DcjVSeDVoX0ZXVlM4bTdxTjQtcDh5UDlnT2hSVkFGdEs2OGpwVHc=';
+    //'ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6VXhNaUo5LmV5SndjbTltYVd4bFgzQnJJam95TXpJd05Ea3NJbTVoYldVaU9pSnBibWwwYVdGc0lpd2lZMnhoYzNNaU9pSk5aWEpqYUdGdWRDSjkuM0l5ai04MTY0Z1dxTjUySTUxeFFHSkpiM01aMl9jR3M4OERuY0R3V09UN3RrZG5DcjVSeDVoX0ZXVlM4bTdxTjQtcDh5UDlnT2hSVkFGdEs2OGpwVHc=';
+String paymobFirstToken='';
+String orderId='';
+
+
+String FinalTokenCard='';
+String FinalTokenKiosk='';
+
+String integrationIdCard='2362417';
+String itegrationIdKiosk='2363646';
+
+var RefCode='';
+
+
+
